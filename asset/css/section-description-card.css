@@ -29,7 +29,9 @@
     padding: 26px;
 }
 .section-description-card__title {
+    max-width: 220px;
     margin: 20px 0 0 0 ;
+    font-size: 20px;
 }
 
 .section-description-card__paragraph {

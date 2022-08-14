@@ -1,0 +1,35 @@
+.сontact-details {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.сontact-details__contact-us{
+    background-color: var(--blue-cplor);
+}
+
+.сontact-details__company {
+    background-color: var(--darc-color);
+}
+
+.сontact-details__contact-us,
+.сontact-details__company {
+    max-width: 50%;
+    padding: 35px;
+}
+
+.сontact-details__title,
+.сontact-details__company-title {
+    margin: 26px 0 0 0;
+}
+
+.сontact-details__paragraph,
+.сontact-details__company-paragraph {
+    margin: 43px 0 0 0;
+}
+
+.сontact-details__link {
+    display: block;
+    margin: 34px 0 0 0;
+    text-decoration: inherit;
+    color: inherit;
+}
