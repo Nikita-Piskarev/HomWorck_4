@@ -1,0 +1,37 @@
+.section-description-card {
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap ;
+    padding: 0 17px;
+    background-color: var(--darc-color);
+}
+
+.section-description-card__img {
+    width: 100%;
+    
+}
+
+.web-development,
+.mobile-applications,
+.tech-marketing {
+    display: flex;
+    flex-direction: column;
+    width: 272px;
+    margin: 35px 0;
+    background-color: var(--white-color);
+    color: var(--darc-color);
+}
+
+.mobile-applications{
+    margin: 35px 20px;
+}
+.section-description-card__content {
+    padding: 26px;
+}
+.section-description-card__title {
+    margin: 20px 0 0 0 ;
+}
+
+.section-description-card__paragraph {
+    margin: 38px 0  18px 0;
+}
