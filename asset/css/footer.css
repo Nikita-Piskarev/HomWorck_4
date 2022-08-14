@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    padding: 35px;
+    background-color: #000000;
+}
+
+.footer__paragraph {
+    width: 50%;
+}
+
+.footer__paragraph-link {
+    text-decoration: none;
+    color: var(--blue-cplor);
+}
