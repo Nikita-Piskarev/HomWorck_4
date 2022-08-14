@@ -9,13 +9,10 @@
 .section-web__wrap-paragraph {
     display: flex;
     align-content: center;
-    /* flex-direction: column; */
-    /* align-items: center; */
-    max-width: 827px;
-    min-width: 200px;
-    margin: 26px 0 0 0;
+    margin: 26px auto 0 auto;
 }
 
 .section-web__paragraph {
+    width: 50%;
     margin: 0 10px 0 10px;
 }
