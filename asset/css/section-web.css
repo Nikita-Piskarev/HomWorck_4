@@ -1,0 +1,21 @@
+.section-web {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+    color: var(--darc-color);
+}
+
+.section-web__wrap-paragraph {
+    display: flex;
+    align-content: center;
+    /* flex-direction: column; */
+    /* align-items: center; */
+    max-width: 827px;
+    min-width: 200px;
+    margin: 26px 0 0 0;
+}
+
+.section-web__paragraph {
+    margin: 0 10px 0 10px;
+}
